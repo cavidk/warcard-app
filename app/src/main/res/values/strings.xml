@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WAR CARD</string>
+    <string name="lbl_score">SCORE: </string>
+</resources>
